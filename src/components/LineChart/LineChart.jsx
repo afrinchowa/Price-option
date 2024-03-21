@@ -23,7 +23,7 @@ const LineChart = () => {
         <Line dataKey="chemistry" stroke='Blue'></Line>
       </LChart>
     </div>
-  );
+  );  
 };
 
 export default LineChart;
